@@ -1,0 +1,5 @@
+# Project exclude paths
+/node_modules/
+/.testplane.conf old/
+/testplane-report/
+/.idea/

@@ -1,0 +1,12 @@
+{
+  "Callback": {
+    "url": "https://test.letbefit.ru/",
+    "callBackLink": ".header-phone-link",
+    "modalCallback": ".modal.action-call-form.modal__show",
+    "inputPhone": ".modal__show .input-mask--phone",
+    "wrongPhone": "+7-910-759-3",
+    "inputPhoneError": ".input-mask--phone.error",
+    "rightPhone": "+7-910-759-38-28",
+    "successModal": ".modal.action-thx.modal__show"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "new-testplane-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx testplane gui",
+    "start": "npx selenium-standalone start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@testplane/headless-chrome": "^1.0.0",
+    "html-reporter": "^9.18.1",
+    "selenium-standalone": "^9.5.0",
+    "testplane": "^0.1.0",
+    "ts-node": "^10.9.2"
+  }
+}
